@@ -10,10 +10,10 @@
 <img src="images/2.jpg" width="300">
 
 <h3>[3] Show Private Data </h3>
-<img src="images/3.jpg" width="300">
+<img src="images/4.jpg" width="300">
 
 <h3>[4] Save As Public </h3>
-<img src="images/4.jpg" width="300">
+<img src="images/3.jpg" width="300">
 
 <h3>[5] Show Public Data </h3>
 <img src="images/5.jpg" width="300">
